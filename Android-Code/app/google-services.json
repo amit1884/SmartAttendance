@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084871235134",
+    "firebase_url": "https://autoattendance-8cd87-default-rtdb.firebaseio.com",
+    "project_id": "autoattendance-8cd87",
+    "storage_bucket": "autoattendance-8cd87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084871235134:android:ea760c821044de7105e36f",
+        "android_client_info": {
+          "package_name": "com.example.smartattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084871235134-3q83qc178hlp5qvskffapd0fu1eo8vrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLEMXNAoOaEMOjgdL-RpK99Y95fj9ZJsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084871235134-3q83qc178hlp5qvskffapd0fu1eo8vrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
